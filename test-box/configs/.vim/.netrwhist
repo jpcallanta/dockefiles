@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/jp/github/chef-datadog/test/integration/datadog_jmx'
+let g:netrw_dirhist_2='/Users/jp/github/chef-datadog/.kitchen'
+let g:netrw_dirhist_3='/Users/jp/cne/fastpub/.git'
+let g:netrw_dirhist_4='/Users/jp/scripts'
+let g:netrw_dirhist_5='/Users/jp/dockerfiles/movies-rails'
+let g:netrw_dirhist_6='/Users/jp/.boot2docker'
+let g:netrw_dirhist_7='/Users/jp/dockerfiles/movies-rails'
